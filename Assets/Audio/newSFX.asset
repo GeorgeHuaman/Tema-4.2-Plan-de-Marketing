@@ -15,8 +15,8 @@ MonoBehaviour:
   _mixerGroup: {fileID: -1007645819942920252, guid: 0461beb79fbfa4735867cac3f1f81cd2,
     type: 2}
   _clips:
-  - {fileID: 8300000, guid: 211d5f45ee3f54493b4d143121386d43, type: 3}
-  _volume: {x: 1, y: 1}
+  - {fileID: 8300000, guid: 3d39c9423a5e2df458fec630091a4e17, type: 3}
+  _volume: {x: 0, y: 0.84999996}
   _pitch: {x: 1, y: 1}
   _spatialBlend: 0
   _reverbMix: 0

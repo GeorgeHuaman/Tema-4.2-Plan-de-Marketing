@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\Proyectos\\Tema-4.2-Plan-de-Marketing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9DE62A75-2C72-2916-AC76-A36C81A6B4DB}|NewAssembly.csproj|e:\\proyectos\\tema-4.2-plan-de-marketing\\assets\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DE62A75-2C72-2916-AC76-A36C81A6B4DB}|NewAssembly.csproj|solutionrelative:assets\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9DE62A75-2C72-2916-AC76-A36C81A6B4DB}|NewAssembly.csproj|e:\\proyectos\\tema-4.2-plan-de-marketing\\assets\\scripts\\pasapalabra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DE62A75-2C72-2916-AC76-A36C81A6B4DB}|NewAssembly.csproj|solutionrelative:assets\\scripts\\pasapalabra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE62A75-2C72-2916-AC76-A36C81A6B4DB}|NewAssembly.csproj|e:\\proyectos\\tema-4.2-plan-de-marketing\\assets\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE62A75-2C72-2916-AC76-A36C81A6B4DB}|NewAssembly.csproj|solutionrelative:assets\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DE62A75-2C72-2916-AC76-A36C81A6B4DB}|NewAssembly.csproj|E:\\Proyectos\\Tema-4.2-Plan-de-Marketing\\assets\\scripts\\obtainmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,13 +26,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Timer.cs",
               "DocumentMoniker": "E:\\Proyectos\\Tema-4.2-Plan-de-Marketing\\Assets\\Scripts\\Timer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Timer.cs",
               "ToolTip": "E:\\Proyectos\\Tema-4.2-Plan-de-Marketing\\Assets\\Scripts\\Timer.cs",
               "RelativeToolTip": "Assets\\Scripts\\Timer.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAIwDQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T19:39:56.138Z",
               "EditorCaption": ""
@@ -57,13 +57,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Pasapalabra.cs",
               "DocumentMoniker": "E:\\Proyectos\\Tema-4.2-Plan-de-Marketing\\Assets\\Scripts\\Pasapalabra.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Pasapalabra.cs",
               "ToolTip": "E:\\Proyectos\\Tema-4.2-Plan-de-Marketing\\Assets\\Scripts\\Pasapalabra.cs",
               "RelativeToolTip": "Assets\\Scripts\\Pasapalabra.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAA8wEUAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwEwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T20:40:58.998Z",
               "EditorCaption": ""

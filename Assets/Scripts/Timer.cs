@@ -40,6 +40,10 @@ public class Timer : SpatialNetworkBehaviour, IVariablesChanged
             isRunning = false;
         }
     }
+    public void Stop()
+    {
+        isRunning = false;
+    }
     public void OnVariablesChanged(NetworkObjectVariablesChangedEventArgs args)
     {
         
