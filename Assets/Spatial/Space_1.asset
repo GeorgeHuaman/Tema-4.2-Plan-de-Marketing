@@ -19,12 +19,12 @@ MonoBehaviour:
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
   worldID: 
-  scene: {fileID: 102900000, guid: 54b6b22071361144fbdfe030ef8ab5c3, type: 3}
+  scene: {fileID: 102900000, guid: 4bf75388e89c4044fa18a3994da9f2c8, type: 3}
   csharpAssembly: {fileID: 5897886265953266890, guid: fdbd544836628a8458a42273b9d2bed9,
     type: 3}
   embeddedPackageAssets: []
   networkPrefabs: []
   settings:
     serverInstancingEnabled: 1
-    serverCapacitySetting: 1
+    serverCapacitySetting: 0
     serverInstanceCapacity: 16
