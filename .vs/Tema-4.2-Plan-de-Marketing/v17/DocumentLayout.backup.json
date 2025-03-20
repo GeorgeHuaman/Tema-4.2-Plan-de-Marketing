@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "E:\\Proyectos\\Tema-4.2-Plan-de-Marketing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Proyectos\\Tema-4.2-Plan-de-Marketing\\Library\\PackageCache\\io.spatial.unitysdk@1.64.0\\Runtime\\CoreModule\\Components\\SpatialNetworkObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\io.spatial.unitysdk@1.64.0\\Runtime\\CoreModule\\Components\\SpatialNetworkObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DE62A75-2C72-2916-AC76-A36C81A6B4DB}|NewAssembly.csproj|e:\\proyectos\\tema-4.2-plan-de-marketing\\assets\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DE62A75-2C72-2916-AC76-A36C81A6B4DB}|NewAssembly.csproj|solutionrelative:assets\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9DE62A75-2C72-2916-AC76-A36C81A6B4DB}|NewAssembly.csproj|e:\\proyectos\\tema-4.2-plan-de-marketing\\assets\\scripts\\pasapalabra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DE62A75-2C72-2916-AC76-A36C81A6B4DB}|NewAssembly.csproj|solutionrelative:assets\\scripts\\pasapalabra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DE62A75-2C72-2916-AC76-A36C81A6B4DB}|NewAssembly.csproj|E:\\Proyectos\\Tema-4.2-Plan-de-Marketing\\assets\\scripts\\obtainmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DE62A75-2C72-2916-AC76-A36C81A6B4DB}|NewAssembly.csproj|solutionrelative:assets\\scripts\\obtainmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Proyectos\\Tema-4.2-Plan-de-Marketing\\Library\\PackageCache\\io.spatial.unitysdk@1.64.0\\Runtime\\CoreModule\\Components\\SpatialNetworkObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\io.spatial.unitysdk@1.64.0\\Runtime\\CoreModule\\Components\\SpatialNetworkObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE62A75-2C72-2916-AC76-A36C81A6B4DB}|NewAssembly.csproj|E:\\Proyectos\\Tema-4.2-Plan-de-Marketing\\assets\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE62A75-2C72-2916-AC76-A36C81A6B4DB}|NewAssembly.csproj|solutionrelative:assets\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +26,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "SpatialNetworkObject.cs",
               "DocumentMoniker": "E:\\Proyectos\\Tema-4.2-Plan-de-Marketing\\Library\\PackageCache\\io.spatial.unitysdk@1.64.0\\Runtime\\CoreModule\\Components\\SpatialNetworkObject.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\io.spatial.unitysdk@1.64.0\\Runtime\\CoreModule\\Components\\SpatialNetworkObject.cs",
               "ToolTip": "E:\\Proyectos\\Tema-4.2-Plan-de-Marketing\\Library\\PackageCache\\io.spatial.unitysdk@1.64.0\\Runtime\\CoreModule\\Components\\SpatialNetworkObject.cs",
               "RelativeToolTip": "Library\\PackageCache\\io.spatial.unitysdk@1.64.0\\Runtime\\CoreModule\\Components\\SpatialNetworkObject.cs",
-              "ViewState": "AgIAABUBAAAAAAAAAAAswCwBAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T17:52:15.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T17:52:15.959Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Timer.cs",
               "DocumentMoniker": "E:\\Proyectos\\Tema-4.2-Plan-de-Marketing\\Assets\\Scripts\\Timer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Timer.cs",
@@ -51,20 +49,20 @@
               "RelativeToolTip": "Assets\\Scripts\\Timer.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwCsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T19:39:56.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T19:39:56.138Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ObtainMaster.cs",
               "DocumentMoniker": "E:\\Proyectos\\Tema-4.2-Plan-de-Marketing\\Assets\\Scripts\\ObtainMaster.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ObtainMaster.cs",
               "ToolTip": "E:\\Proyectos\\Tema-4.2-Plan-de-Marketing\\Assets\\Scripts\\ObtainMaster.cs",
               "RelativeToolTip": "Assets\\Scripts\\ObtainMaster.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAhwBMAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAhwBMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T20:55:30.383Z"
+              "WhenOpened": "2025-01-16T20:55:30.383Z",
+              "EditorCaption": ""
             }
           ]
         },
@@ -74,13 +72,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Pasapalabra.cs",
               "DocumentMoniker": "E:\\Proyectos\\Tema-4.2-Plan-de-Marketing\\Assets\\Scripts\\Pasapalabra.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Pasapalabra.cs",
               "ToolTip": "E:\\Proyectos\\Tema-4.2-Plan-de-Marketing\\Assets\\Scripts\\Pasapalabra.cs",
               "RelativeToolTip": "Assets\\Scripts\\Pasapalabra.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwEEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T20:40:58.998Z",
               "EditorCaption": ""
