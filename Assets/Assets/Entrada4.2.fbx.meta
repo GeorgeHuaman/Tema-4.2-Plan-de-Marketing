@@ -3,7 +3,22 @@ guid: d3495259bf5362045981bd394c2cf2a8
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vegetacion
+    second: {fileID: 2100000, guid: f8822bfda9670034fb01a4d5b7d6e8fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert13
+    second: {fileID: 2100000, guid: d9bedb9d1d229cc4c8c8bacb32655c9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: standardSurface1
+    second: {fileID: 2100000, guid: 25901cd854ce44748804c5fabee32efd, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

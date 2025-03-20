@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: Space_1
   m_EditorClassIdentifier: 
   version: 1
-  sku: 
-  packageName: Plan de Marketing 4.2
-  thumbnail: {fileID: 2800000, guid: ec6e61a8993a64290991cfc322ec43ea, type: 3}
+  sku: 1vf058bkj8ug5f182lu4zatq
+  packageName: Central 4.2 segundo trimestre
+  thumbnail: {fileID: 2800000, guid: d512eb8062a4c2a4ea29b6b239a5993f, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
-  worldID: 
+  worldID: gio9ft4y1v7juir5d0kph
   scene: {fileID: 102900000, guid: 4bf75388e89c4044fa18a3994da9f2c8, type: 3}
   csharpAssembly: {fileID: 5897886265953266890, guid: fdbd544836628a8458a42273b9d2bed9,
     type: 3}
